@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  About Me:
+  Hello there! My name is <a href="https://vk.com/sarnatskym" target="_blank">Arina</a>
+  <img src="https://komarev.com/ghpvc/?username=SarnatskyM&style=flat-square&color=blue" alt=""/> <br><br>
+  ✈ Languages:
+  <p align="left">
+  </p>
+</div>
 
-<!--
-**ArinaSosranova/ArinaSosranova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
