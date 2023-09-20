@@ -4,5 +4,5 @@
 
 <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.tenor.com/9q6fSbH4xB0AAAAC/cat-kawaii.gif" width="600" height="300"/>
 </div>
