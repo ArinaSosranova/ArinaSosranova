@@ -1,8 +1,5 @@
 <div align="center">
-  About Me:
-  ✈ Languages:
-  <p align="left">
-  </p>
+  Hello there! My name is <a href="https://vk.com/sarnatskym" target="_blank">Arina</a>
 </div>
 
 <hr>
